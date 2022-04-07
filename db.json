@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "84b87094-33bc-4ebf-b993-f45bf11d7553",
+      "text": "dsf",
+      "completed": false
+    },
+    {
+      "id": "551d0003-c801-4b19-b502-4954c65448ba",
+      "text": "sdf",
+      "completed": false
+    },
+    {
+      "id": "42b0d263-0717-42a6-bb8b-ffa7be91b653",
+      "text": "sdfsafd",
+      "completed": false
+    },
+    {
+      "id": "70ac1f55-3d33-4a37-aa64-3797585945b8",
+      "text": "sdf",
+      "completed": false
+    },
+    {
+      "id": "bd869d6b-1db2-4bfd-838e-d4e06f851ac3",
+      "text": "sdfsdaf",
+      "completed": false
+    },
+    {
+      "id": "1f3782dd-d6cf-4e82-9292-195b2de14f50",
+      "text": "dfasdf",
+      "completed": false
+    }
+  ]
+}
